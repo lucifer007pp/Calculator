@@ -1,0 +1,60 @@
+#heading{
+    text-align: center;
+    align-items: center;
+}
+
+#calc{
+    margin: auto;
+    width: 463px;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.dashboard{
+    height: 528px;
+    width: 458px;
+    border: 2px solid black;
+}
+
+.dashboard input{
+    margin: 0;
+    padding: 23px 44px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+#firstRow{
+    font-size: 0px;
+    padding: 0px 20px;
+}
+
+.dashboard{
+    text-align: center;
+    justify-content: center;
+
+}
+
+.rows{
+    margin: 8px;
+}
+
+.button{
+    margin: 3px 6px;
+    padding: 15px 26px;
+    font-size: 27px;
+    border: 2px solid black;
+    border-radius: 35px;
+    box-shadow: 4px 7px;
+    cursor: pointer;
+}
+
+.button:active{
+    background-color: black;
+    color: white;
+}
+
+#zero{
+    width: 162px;
+}

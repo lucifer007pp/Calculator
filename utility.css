@@ -1,0 +1,15 @@
+.center{
+    align-items: center;
+}
+
+.mx-width{
+    max-width: 20vw;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
